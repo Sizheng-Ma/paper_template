@@ -256,3 +256,5 @@ tar-files
 submission/
 paper.tar.gz
 subdirs
+
+.DS_Store
